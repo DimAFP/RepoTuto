@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2738693A283F55A600ABE842 /* DimView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27386939283F55A600ABE842 /* DimView.swift */; };
 		4351BACC283F54CC004AE542 /* TutoGitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4351BACB283F54CC004AE542 /* TutoGitApp.swift */; };
 		4351BACE283F54CC004AE542 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4351BACD283F54CC004AE542 /* ContentView.swift */; };
 		4351BAD0283F54CE004AE542 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4351BACF283F54CE004AE542 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		27386939283F55A600ABE842 /* DimView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DimView.swift; sourceTree = "<group>"; };
 		4351BAC8283F54CC004AE542 /* TutoGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TutoGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4351BACB283F54CC004AE542 /* TutoGitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutoGitApp.swift; sourceTree = "<group>"; };
 		4351BACD283F54CC004AE542 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				4351BACD283F54CC004AE542 /* ContentView.swift */,
 				4351BACF283F54CE004AE542 /* Assets.xcassets */,
 				4351BAD1283F54CE004AE542 /* Preview Content */,
+				27386939283F55A600ABE842 /* DimView.swift */,
 			);
 			path = TutoGit;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2738693A283F55A600ABE842 /* DimView.swift in Sources */,
 				4351BACE283F54CC004AE542 /* ContentView.swift in Sources */,
 				4351BACC283F54CC004AE542 /* TutoGitApp.swift in Sources */,
 			);
